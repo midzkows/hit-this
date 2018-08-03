@@ -1,18 +1,1 @@
-User1 0.8,
-User2 0.9,
 
-Gosia 0.5,
-
-Gosia 1.0,
-
-KAcper 0.25,
-
-Dobrze 0.25,
-
-pl 0.25,
-
-Oskar 1.0,
-
-Gosia 0.5,
-
-OLA 1.0,
